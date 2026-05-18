@@ -781,7 +781,13 @@
             "ua": "okhttp",
             "url": "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"
         },
-        {
+         {
+            "name": "🐬smt源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://xsmt.ccwu.cc/xsmt/smt.php"
+        },
+	    {
             "name": "🐬港奥台国际",
             "type": 0,
             "ua": "okhttp",
@@ -800,7 +806,7 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv"
         },
         {
-            "name": "🐬安博卡顿(梯子)",
+            "name": "🐬安博(梯子)卡顿",
             "type": 0,
             "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博.txt"
