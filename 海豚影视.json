@@ -416,6 +416,43 @@
             "searchable": 1,
             "filterable": 0
         },
+		{
+      "key": "小鸡资源",
+      "name": "小鸡资源🔞",
+      "type": 0,
+      "api": "https://api.xiaojizy.live/provide/vod?at=xml&ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+   {
+      "key": "悟空资源",
+      "name": "悟空资源🔞",
+      "type": 0,
+      "api": "https://wukongzyz.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+   
+    {
+      "key": "百万资源",
+      "name": "百万资源🔞",
+      "type": 0,
+      "api": "https://api.bwzym3u8.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "搜AV资源",
+      "name": "搜AV资源🔞",
+      "type": 0,
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
         {
             "key": "91",
             "name": "🐬传媒系列｜🔞(梯子)",
